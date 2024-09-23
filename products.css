@@ -1,0 +1,773 @@
+    /* CARTIER */
+    .cartier-logo {
+    position: absolute;
+    width: 190px;
+    height: 187px;
+    left: 63px;
+    top: 170px;
+  }
+    .desc-cartier {
+    left: 63px;
+    top: 320px;
+    color: rgba(99, 96, 111, 1);
+    width: 993px;
+    height: 81px;
+    position: absolute;
+    font-size: 22px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier01-name {
+    left: 63px;
+    top: 817px;
+    color: rgba(163, 163, 163, 1);
+    width: 187px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier01-price {
+    left: 63px;
+    top: 854px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier01-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 63px;
+    top: 454px;
+  }
+  .cartier02-name {
+    left: 465px;
+    top: 817px;
+    color: rgba(163, 163, 163, 1);
+    width: 219px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier02-price {
+    left: 465px;
+    top: 854px;
+    color: rgba(52, 52, 52, 1);
+    width: 212px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier02-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 465px;
+    top: 454px;
+  }
+  .cartier03-name {
+    left: 867px;
+    top: 817px;
+    color: rgba(163, 163, 163, 1);
+    width: 276px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier03-price {
+    left: 867px;
+    top: 854px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartier03-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 867px;
+    top: 454px;
+  }
+
+  /* MK */
+  .mk-logo {
+    position: absolute;
+    width: 142px;
+    height: 187px;
+    left: 63px;
+    top: 958px;
+    /* display: flex; */
+    /* flex-direction: column;
+    align-items: center; */
+  }
+  .desc-mk {
+    left: 63px;
+    top: 1123px;
+    color: rgba(99, 96, 111, 1);
+    width: 993px;
+    height: 81px;
+    position: absolute;
+    font-size: 22px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk01-name {
+    left: 63px;
+    top: 1613px;
+    color: rgba(163, 163, 163, 1);
+    width: 200px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk01-price {
+    left: 63px;
+    top: 1650px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk01-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 63px;
+    top: 1250px;
+  }
+  .mk02-name {
+    left: 465px;
+    top: 1613px;
+    color: rgba(163, 163, 163, 1);
+    width: 219px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk02-price {
+    left: 465px;
+    top: 1650px;
+    color: rgba(52, 52, 52, 1);
+    width: 212px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk02-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 465px;
+    top: 1250px;
+  }
+  .mk03-name {
+    left: 867px;
+    top: 1613px;
+    color: rgba(163, 163, 163, 1);
+    width: 276px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk03-price {
+    left: 867px;
+    top: 1650px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .mk03-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 867px;
+    top: 1250px;
+  }
+
+  /* TAG */
+  .tag-logo {
+    position: absolute;
+    width: 190px;
+    height: 187px;
+    left: 88px;
+    top: 1754px;
+  }
+  .desc-tag {
+    left: 88px;
+    top: 1941px;
+    color: rgba(99, 96, 111, 1);
+    width: 993px;
+    height: 81px;
+    position: absolute;
+    font-size: 22px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag01-name {
+    left: 88px;
+    top: 2431px;
+    color: rgba(163, 163, 163, 1);
+    width: 235px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag01-price {
+    left: 88px;
+    top: 2468px;
+    color: rgba(52, 52, 52, 1);
+    width: 214px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag01-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 88px;
+    top: 2068px;
+  }
+  .tag02-name {
+    left: 490px;
+    top: 2431px;
+    color: rgba(163, 163, 163, 1);
+    width: 251px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag02-price {
+    left: 490px;
+    top: 2468px;
+    color: rgba(52, 52, 52, 1);
+    width: 211px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag02-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 490px;
+    top: 2068px;
+  }
+  .tag03-name {
+    left: 892px;
+    top: 2431px;
+    color: rgba(163, 163, 163, 1);
+    width: 276px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag03-price {
+    left: 892px;
+    top: 2468px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tag03-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 892px;
+    top: 2068px;
+  }
+
+  /* OMEGA */
+  .omega-logo {
+    position: absolute;
+    width: 190px;
+    height: 187px;
+    left: 73px;
+    top: 2572px;
+  }
+  .desc-omega {
+    left: 73px;
+    top: 2759px;
+    color: rgba(99, 96, 111, 1);
+    width: 993px;
+    height: 81px;
+    position: absolute;
+    font-size: 22px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 27px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega01-name {
+    left: 73px;
+    top: 3249px;
+    color: rgba(163, 163, 163, 1);
+    width: 235px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega01-price {
+    left: 73px;
+    top: 3286px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega01-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 73px;
+    top: 2886px;
+  }
+  .omega02-name {
+    left: 475px;
+    top: 3249px;
+    color: rgba(163, 163, 163, 1);
+    width: 251px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega02-price {
+    left: 475px;
+top: 3286px;
+    color: rgba(52, 52, 52, 1);
+    width: 213px;
+height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega02-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 475px;
+    top: 2886px;
+  }
+  .omega03-name {
+    left: 867px;
+    top: 3249px;
+    color: rgba(163, 163, 163, 1);
+    width: 276px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega03-price {
+    left: 877px;
+    top: 3286px;
+    color: rgba(52, 52, 52, 1);
+    width: 212px;
+    height: 25px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Goblin One';
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .omega03-pict {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 877px;
+    top: 2886px;
+  }
+
+    /* ROLEX */
+    .rolex-logo {
+        position: absolute;
+        width: 190px;
+        height: 187px;
+        left: 73px;
+        top: 3390px;
+      }
+      .desc-rolex {
+        left: 73px;
+        top: 3577px;
+        color: rgba(99, 96, 111, 1);
+        width: 993px;
+        height: 81px;
+        position: absolute;
+        font-size: 22px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Montserrat';
+        font-weight: 400;
+        line-height: 27px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex01-name {
+        left: 73px;
+        top: 4067px;
+        color: rgba(163, 163, 163, 1);
+        width: 235px;
+        height: 24px;
+        position: absolute;
+        font-size: 20px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        line-height: 24px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex01-price {
+        left: 73px;
+        top: 4104px;
+        color: rgba(52, 52, 52, 1);
+        width: 233px;
+        height: 25px;
+        position: absolute;
+        font-size: 20px;
+        font-style: bold;
+        text-align: left;
+        font-family: 'Goblin One';
+        font-weight: 400;
+        line-height: 25px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex01-pict {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        left: 73px;
+        top: 3704px;
+      }
+      .rolex02-name {
+        left: 475px;
+        top: 4067px;
+        color: rgba(163, 163, 163, 1);
+        width: 219px;
+        height: 24px;
+        position: absolute;
+        font-size: 20px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        line-height: 24px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex02-price {
+        left: 475px;
+        top: 4104px;
+        color: rgba(52, 52, 52, 1);
+        width: 212px;
+        height: 25px;
+        position: absolute;
+        font-size: 20px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Goblin One';
+        font-weight: 400;
+        line-height: 25px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex02-pict {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        left: 475px;
+        top: 3704px;
+      }
+      .rolex03-name {
+        left: 877px;
+        top: 4067px;
+        color: rgba(163, 163, 163, 1);
+        width: 276px;
+        height: 24px;
+        position: absolute;
+        font-size: 20px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        line-height: 24px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex03-price {
+        left: 877px;
+        top: 4104px;
+        color: rgba(52, 52, 52, 1);
+        width: 213px;
+        height: 25px;
+        position: absolute;
+        font-size: 20px;
+        font-style: normal;
+        text-align: left;
+        font-family: 'Goblin One';
+        font-weight: 400;
+        line-height: 25px;
+        font-stretch: normal;
+        text-decoration: none;
+      }
+      .rolex03-pict {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        left: 877px;
+        top: 3704px;
+      }
+
+      /* FOOTER */
+  .products-footer {
+    top: 4300px;
+    left: 0px;
+    width: 1280px;
+    height: 236px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(142, 154, 175, 1);
+  }
+  .footer01 {
+    left: 336px;
+    top: 70px;
+    color: rgba(255, 255, 255, 1);
+    width: 608px;
+    height: 48px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .footer02 {
+    left: 473px;
+    top: 140px;
+    color: rgba(255, 255, 255, 1);
+    width: 297px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .footer03 {
+    left: 440px;
+    top: 180px;
+    color: rgba(255, 255, 255, 1);
+    width: 400px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }

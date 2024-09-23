@@ -1,0 +1,110 @@
+/* CONTACT US */
+.contactUs-text01 {
+    top: 214px;
+    left: 81px;
+    color: rgba(104, 104, 104, 1);
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    font-size: 50px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Red Hat Text';
+    font-weight: 700;
+    line-height: 66px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactUs-text02 {
+    color: rgba(0, 0, 0, 1);
+    width: 983px;
+    height: 72px;
+    left: 81px;
+    top: 296px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .form {
+    color: rgba(0, 0, 0, 1);
+    width: 481px;
+    height: 29px;
+    left: 165px;
+    top: 400px;
+    position: absolute;
+    font-size: 24px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 29px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  /* FOOTER */
+  .contactUs-footer {
+    top: 650px;
+    left: 0px;
+    width: 1280px;
+    height: 236px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(142, 154, 175, 1);
+  }
+  .footer01 {
+    left: 336px;
+    top: 70px;
+    color: rgba(255, 255, 255, 1);
+    width: 608px;
+    height: 48px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .footer02 {
+    left: 473px;
+    top: 140px;
+    color: rgba(255, 255, 255, 1);
+    width: 297px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .footer03 {
+    left: 440px;
+    top: 180px;
+    color: rgba(255, 255, 255, 1);
+    width: 400px;
+    height: 24px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }

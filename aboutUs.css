@@ -1,0 +1,76 @@
+/* ABOUT US */
+  .aboutUs-text01 {
+    top: 214px;
+    left: 81px;
+    color: rgba(104, 104, 104, 1);
+    width: 266px;
+    height: 66px;
+    position: absolute;
+    font-size: 50px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Red Hat Text';
+    font-weight: 700;
+    line-height: 66px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutUs-text02 {
+    color: rgba(0, 0, 0, 1);
+    width: 1170px;
+    height: 576px;
+    left: 81px;
+    top: 296px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  /* FOTO */
+  .team {
+    position: absolute;
+    width: 300px;
+    height: 1300px;
+    left: 150px;
+    top: 830px;
+  }
+
+/* OUR TEAM */
+.aboutUs-text03 {
+    left: 900px;
+    top: 1600px;
+    color: rgba(104, 104, 104, 1);
+    width: 275px;
+    height: 66px;   
+    position: absolute;
+    font-size: 50px;
+    font-style: normal;
+    text-align: left;
+    font-family:'Red Hat Text';
+    font-weight: 700;
+    line-height: 66px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutUs-text04 {
+    left: 208px;
+    top: 1700px;
+    color: rgba(0, 0, 0, 1);
+    width: 974px;
+    height: 384px;
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    text-align: right;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
